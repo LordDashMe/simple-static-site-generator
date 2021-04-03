@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  app:
+    tty: true
+    stdin_open: true
+    image: 'node:10-alpine'
+    volumes:
+      - '.:/var/www/site/'

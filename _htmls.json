@@ -1,0 +1,8 @@
+{
+    "pages": {
+        "index": [
+            "dist/md/welcome.html",
+            "src/html/index.html"
+        ]
+    }
+}

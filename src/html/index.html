@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Simple Static Site Generator</title>
+        <link rel="stylesheet" href="{@ENV('ASSETS_URL')}css/commons/global.min.css">
+    </head>
+    <body>
+        {@IMPORT('dist/md/welcome.html')}
+        <script type="text/javascript" src="{@ENV('ASSETS_URL')}js/commons/global.min.js"></script>
+    </body>
+</html>

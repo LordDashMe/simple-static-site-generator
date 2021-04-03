@@ -1,0 +1,9 @@
+{
+    "plugins": {},
+    "third_party": {},
+    "commons": {
+        "global": "src/scss/global.scss"
+    },
+    "components": {},
+    "pages": {}
+}
