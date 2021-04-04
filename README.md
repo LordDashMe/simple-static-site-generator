@@ -18,7 +18,7 @@ A simple way to create your static site.
 
 Documentation for this project is on going, as soon as the final draft is done we will release it immediately!
 
-But for now if you have strong knowledge with npm and gulp you can read the project files like the ```package.json``` 😄 and it will lead you how to use it.
+But for now if you have strong knowledge with npm and gulp you can check the project files like the ```package.json``` 😄.
 
 Please feel free to send your thoughts and suggestion we are to hear that from you 😉. 
 
