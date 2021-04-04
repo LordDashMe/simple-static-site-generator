@@ -17,7 +17,9 @@ A simple way to create your static site.
 ## Notice
 
 Documentation for this project is on going, we will release it soon as the final draft is done!
+
 But for now if you feel you are an expert, yes you can read the project files like ```package.json``` 😄.
+
 Please feel free to send your thoughts and suggestion we are to hear that from you 😉. 
 
 ## License
